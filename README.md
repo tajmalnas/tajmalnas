@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/tajmalnas"><img src="https://api.daily.dev/devcards/v2/y6C4DXnJCU6PQCSglrE8O.png?r=k5g" width="356" alt="Taj malnas's Dev Card"/></a>
+
 # 💫 About Me:
 👯 I’m looking to collaborate on web3 projects and react projects<br>🌱 I’m currently learning TypeScript and webSockets<br>💬 Ask me about anything related to javascript<br>
 
